@@ -1,0 +1,43 @@
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+
+}
+.txt{
+    position: relative;
+  text-align: center;
+  color: white;
+}
+.h3_align{
+    text-align: left;
+    margin-left: 50px;
+}
+.align_txt{
+    text-align: left;
+    margin-left: 50px;
+}
+.numbers{
+    text-align: center;
+    color: rgb(22, 167, 22);
+    background-color:rgb(240, 232, 232);
+    padding-top: 55px;
+}
+.cards{
+    padding-bottom:0;
+}
+.body{
+    margin-bottom: 100px;
+}
+.icon_1{
+    text-align: center;
+}
+.count{
+    color: black;
+}
+.end_homepg{
+    text-align: center;
+}
+.card_text_edit{
+    text-align: center;
+}

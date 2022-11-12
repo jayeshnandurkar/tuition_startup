@@ -1,0 +1,29 @@
+.contact_txt{
+    
+        position: relative;
+      text-align: center;
+      color: white;
+}
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+.txt{
+        position: relative;
+      text-align: center;
+      color: white;
+}
+.align_txt{
+    text-align: left;
+    margin-left: 10px;
+    padding-top: 140px;
+}
+.story{
+  text-align: center;
+  padding-top: x;
+}
+.story_center{
+    text-align: center;
+    
+}
